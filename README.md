@@ -1,6 +1,6 @@
-#Guia de Utilizaçao
-   ###Neste guia vamos criar um "novo projecto exemplo chamado "Test"
-   ##1-(GitHub)
+# Guia de Utilizaçao
+   ### Neste guia vamos criar um "novo projecto exemplo chamado "Test"
+   ## 1-(GitHub)
    1. Passo:
     1. criar Repo para "Test"
    2º Passo:
