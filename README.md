@@ -30,6 +30,9 @@ trabalho do dia anterior.
 
 ##3-(dentro de "Test")
   12º Passo:
+        nos files "package.json" e "package-lock.json", alterar o campo
+(name:'template_project_gulp_sass';) para (name'"Test"';)
+  13º Passo:
         apagar o README.MD
         e em package.json mudar o name para o nome do projecto, que neste caso é
 "test" - PERGUNTAR AO LIMA SE ISTO É PARA FAZER ASSIM
