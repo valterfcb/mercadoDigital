@@ -1,10 +1,10 @@
 #Guia de Utilizaçao
-Neste guia vamos criar um "novo projecto exemplo chamado "Test"
+###Neste guia vamos criar um "novo projecto exemplo chamado "Test"
 ##1-(GitHub)
-  1º Passo:
-        criar Repo para "Test"
-  2º Passo:
-        clonar o Remote de "new_project_template"
+   1. Passo:
+    1. criar Repo para "Test"
+   2º Passo:
+   clonar o Remote de "new_project_template"
 
 ##2-(Terminal)
   3º Passo:
