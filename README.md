@@ -5,6 +5,7 @@ Neste guia vamos criar um "novo projecto exemplo chamado "Test"
         criar Repo para "Test"
   2º Passo:
         clonar o Remote de "new_project_template"
+
 ##2-(Terminal)
   3º Passo:
         g clone (remote de "new_project_template") "Test"
@@ -22,8 +23,13 @@ Neste guia vamos criar um "novo projecto exemplo chamado "Test"
         g oush -u origin master
   10º Passo:
         npm install
-##3-(dentro de "Test")
   11º Passo:
+        npm start
+       -este passo é para ser feito sempre que se abrir o terminal e recomeçar o
+trabalho do dia anterior.
+
+##3-(dentro de "Test")
+  12º Passo:
         apagar o README.MD
         e em package.json mudar o name para o nome do projecto, que neste caso é
 "test" - PERGUNTAR AO LIMA SE ISTO É PARA FAZER ASSIM
