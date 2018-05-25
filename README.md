@@ -1,8 +1,8 @@
 # Guia de Utilizaçao
-   ##### Neste guia vamos criar um novo projecto exemplo chamado **"Test"**
+   ##### Neste guia vamos criar um novo projecto exemplo chamado _"Test"_
 
-   #### SETUP
-   ##### 1-(GitHub)
+   ### SETUP
+   #### 1-(GitHub)
    1. Passo:
    * criar Repo para "Test"
    2. Passo:
@@ -26,15 +26,15 @@
    10. Passo:
    **npm install**
    11. Passo:
-   **_npm start_**
+   **npm start**
 
-   ##### 3-(dentro de "Test")
+   #### 3-(dentro de "Test")
    12. Passo:
    * Nos files "package.json" e "package-lock.json", alterar o campo
 (name:'template_project_gulp_sass';) para (name'"Test"';)
    13. Passo:
    * Apagar o README.MD e em package.json mudar o name para o nome do projecto, que neste caso é
 **"Test"**
-   #### DESENVOLVIMENTO 
+   ### DESENVOLVIMENTO 
    1. Passo:
         **_npm start_**
