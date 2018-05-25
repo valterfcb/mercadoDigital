@@ -1,41 +1,40 @@
 # Guia de Utilizaçao
-   ### Neste guia vamos criar um "novo projecto exemplo chamado "Test"
-   ## 1-(GitHub)
+   ##### Neste guia vamos criar um novo projecto exemplo chamado **"Test"**
+
+   #### SETUP
+   ##### 1-(GitHub)
    1. Passo:
-    1. criar Repo para "Test"
-   2º Passo:
-   clonar o Remote de "new_project_template"
+   * criar Repo para "Test"
+   2. Passo:
+   * clonar o Remote de "new_project_template"
 
-##2-(Terminal)
-  3º Passo:
-        g clone (remote de "new_project_template") "Test"
-  4º Passo:
-        cd "Test"
-  5º Passo:
-        g
-  6º Passo:
-        g remote -v
-  7º Passo:
-        g remote rm origin
-  8º Passo:
-        g remote add origin (remote de "Test")
-  9º Passo:
-        g oush -u origin master
-  10º Passo:
-        npm install
-  11º Passo:
-        npm start
-       -este passo é para ser feito sempre que se abrir o terminal e recomeçar o
-trabalho do dia anterior.
+   #### 2-(Terminal)
+   3. Passo:
+   **g clone (remote de "new_project_template") "Test"**
+   4. Passo:
+   **cd "Test"**
+   5. Passo:
+   _g_
+   6. Passo:
+   _g remote -v_
+   7. Passo:
+   **g remote rm origin**
+   8. Passo:
+   **g remote add origin (remote de "Test")**
+   9. Passo:
+   **g oush -u origin master**
+   10. Passo:
+   **npm install**
+   11. Passo:
+   **_npm start_**
 
-##3-(dentro de "Test")
-  12º Passo:
-        nos files "package.json" e "package-lock.json", alterar o campo
+   ##### 3-(dentro de "Test")
+   12. Passo:
+   * Nos files "package.json" e "package-lock.json", alterar o campo
 (name:'template_project_gulp_sass';) para (name'"Test"';)
-  13º Passo:
-        apagar o README.MD
-        e em package.json mudar o name para o nome do projecto, que neste caso é
-"test" - PERGUNTAR AO LIMA SE ISTO É PARA FAZER ASSIM
-
-E VER TAMBEM A QUESTAO DAS TASKS do GULP, SE ELAS COMEÇAM A TRABALHAR SOZINHAS
-OU SE É PRECISO CHAMALAS COM OS COMANDOS GULP WATCH, etc .....
+   13. Passo:
+   * Apagar o README.MD e em package.json mudar o name para o nome do projecto, que neste caso é
+**"Test"**
+   #### DESENVOLVIMENTO 
+   1. Passo:
+        **_npm start_**
