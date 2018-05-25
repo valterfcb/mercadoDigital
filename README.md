@@ -4,9 +4,9 @@
    ### SETUP
    #### 1-(GitHub)
    1. Passo:
-   * criar Repo para "Test"
+   criar Repo para "Test"
    2. Passo:
-   * clonar o Remote de "new_project_template"
+   clonar o Remote de "new_project_template"
 
    #### 2-(Terminal)
    3. Passo:
